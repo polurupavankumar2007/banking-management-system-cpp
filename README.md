@@ -1,10 +1,10 @@
-#  Banking Management System in C++
+#  Banking System in C++
 
-A simple Banking Management System developed in C++ that allows users to create accounts, deposit money, withdraw money, and check account balances. This project demonstrates the use of classes, objects, functions, and basic banking operations in C++.
+A simple Banking System developed in C++ that allows users to create accounts, deposit money, withdraw money, and check account balances. This project demonstrates the use of classes, objects, functions, and basic banking operations in C++.
 
 ## Description
 
-The Banking Management System is a console-based application designed to simulate basic banking operations. Users can create an account, deposit funds, withdraw funds, and view their account details. This project is ideal for beginners learning Object-Oriented Programming (OOP) concepts in C++.
+The Banking System is a console-based application designed to simulate basic banking operations. Users can create an account, deposit funds, withdraw funds, and view their account details. This project is ideal for beginners learning Object-Oriented Programming (OOP) concepts in C++.
 
 ##  Features
 
